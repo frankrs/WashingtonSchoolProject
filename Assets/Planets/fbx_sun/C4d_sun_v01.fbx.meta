@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 45dba2c8093876349ad6a3fb05c5d3c4
+timeCreated: 1459054623
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Chromosphere
+    100006: Chromosphere_2
+    100008: Chromosphere_3
+    100010: Chromosphere_light
+    100012: Convective
+    100014: Convective_2
+    100016: Convective_MOVE_HIDE_SLIDE
+    100018: Core
+    100020: Core_2
+    100022: MOVE_HIDE_SLIDE
+    100024: Photosphere
+    100026: Photosphere_2
+    100028: Photosphere_MOVE_HIDE_SLIDE
+    100030: Radiative
+    100032: Radiative_
+    100034: Radiative_MOVE_HIDE_SLIDE
+    100036: Ring
+    100038: ring_fire
+    100040: sun
+    400000: //RootNode
+    400002: Camera
+    400004: Chromosphere
+    400006: Chromosphere_2
+    400008: Chromosphere_3
+    400010: Chromosphere_light
+    400012: Convective
+    400014: Convective_2
+    400016: Convective_MOVE_HIDE_SLIDE
+    400018: Core
+    400020: Core_2
+    400022: MOVE_HIDE_SLIDE
+    400024: Photosphere
+    400026: Photosphere_2
+    400028: Photosphere_MOVE_HIDE_SLIDE
+    400030: Radiative
+    400032: Radiative_
+    400034: Radiative_MOVE_HIDE_SLIDE
+    400036: Ring
+    400038: ring_fire
+    400040: sun
+    2300000: Chromosphere_3
+    2300002: Convective_MOVE_HIDE_SLIDE
+    2300004: Core_2
+    2300006: MOVE_HIDE_SLIDE
+    2300008: Photosphere_MOVE_HIDE_SLIDE
+    2300010: Radiative_MOVE_HIDE_SLIDE
+    2300012: Ring
+    3300000: Chromosphere_3
+    3300002: Convective_MOVE_HIDE_SLIDE
+    3300004: Core_2
+    3300006: MOVE_HIDE_SLIDE
+    3300008: Photosphere_MOVE_HIDE_SLIDE
+    3300010: Radiative_MOVE_HIDE_SLIDE
+    3300012: Ring
+    4300000: Ring
+    4300002: Chromosphere_3
+    4300004: MOVE_HIDE_SLIDE
+    4300006: Photosphere_MOVE_HIDE_SLIDE
+    4300008: Convective_MOVE_HIDE_SLIDE
+    4300010: Radiative_MOVE_HIDE_SLIDE
+    4300012: Core_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
